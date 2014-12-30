@@ -1,0 +1,2961 @@
+[
+  [
+    "I7Kte2FwXWPCwdm7ispu1A", 
+    4, 
+    "Pretty good dinner with a nice selection of food. Open 24 hours and provide nice service. I usually go here after a night of partying. My favorite dish is the Fried Chicken Eggs Benedict.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Pretty good dinner","nice selection of food"], 
+        "Ambience": "go here after a night of partying", 
+        "VFM": "", 
+        "Service": ["Open 24 hours", "nice service"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1], 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": [1,1]
+      }
+    }
+  ], 
+  [
+    "9uHZyOu5CTCDl1L6cfvOCA", 
+    4, 
+    "Good truck stop dining at the right price. We love coming here on the weekends when we don't feel like cooking.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "love coming on the weekends", 
+        "Ambience": "", 
+        "VFM": "dining at the right price", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "ow1c4Lcl3ObWxDC2yurwjQ", 
+    4, 
+    "If you like lot lizards, you'll love the Pine Cone!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "love the Pine Cone", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "FRTCszJWkJonDAZx3yr8FA", 
+    4, 
+    "Enjoyable experience for the whole family. The wait staff was courteous and friendly; the food was reasonably priced and a good value. A word of advice--LEAVE ROOM FOR DESSERT! the desserts are great but huge! Plan to bring some home", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "desserts are great but huge", 
+        "Ambience": "", 
+        "VFM": ["reasonably priced","good value"], 
+        "Service": ["enjoyable experience for whole family","staff was courteous and friendly"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience":0, 
+        "VFM": [1,1], 
+        "Service": [1,1]
+      }
+    }
+  ], 
+  [
+    "qQIvtbqUujvvnJDzPSfmFA", 
+    4, 
+    "One of my favorite truck stop diners with solid food and friendly, quick service. My god, those desserts are huge! I can't imagine eating that giant cream puff. \nAll the food we had was delicious and I love how they leave a carafe of coffee on the table. Love this place. Would definitely be back if I was in the area!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["solid food", "food we had was delicious"],
+        "Ambience": ["love this place","would definitely be back"], 
+        "VFM": "",
+        "Service": "friendly, quick service"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1], 
+        "Ambience": [1,1], 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "4iPPOQIo5Mr1NAUPUgCUrQ", 
+    4, 
+    "Only went here once about a year and a half ago, but they had great pancakes! My only problem with it at the time was that they allowed smoking, so I left smelling like a cigarette. With the change in law, I'm sure the atmosphere has improved!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "had great pancakes", 
+        "Ambience": ["smelling like cigarette","atmosphere has improved"], 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": [-1, 1], 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "Rnm1KyfRcwNt9bOI5i-yqA", 
+    4, 
+    "Great truck stop restaurant.  I've had breakfast and dinner here and it has always been good.  Huge portions and reasonable prices.  The bakery I guess is legendary.  They have doughnuts the size of your head!  Eclairs the size of your arm and Cream Puffs that are about 10\" high.  On our most recent trip in the area, stopped at the gas station attached to the restaurant fo some quick snacks and of course BAKERY.\n\nIf you are driving by and see the sign for The Pine Cone Restaurant - Take the next off ramp and stop it.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["it has always been good","bakery I guess is legendary"], 
+        "Ambience": "", 
+        "VFM": ["reasonable prices","huge portions"], 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1], 
+        "Ambience": 0, 
+        "VFM": [1,1], 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "SSlO5u2nIJ8PoAKAgN5m3Q", 
+    5, 
+    "Yeah, thats right a five freakin star rating.  \n\nFive Star Truck Stop Dining At Its Finest.\n\nBe prepared to eat.  \n\nI was first introduced to the Pine Cone at its Johnson Creek location years ago and freaked out at the size of the awesome, delicious desserts.   Then on a recent road trip someone mentioned about eating at the Pine Cone, I thought is there really more than one?  I looked out the window to see exactly where we were at and it wasn't near Johnson Creek -- when we arrived, and I saw the bakery....I knew I was home.\n\nIt was near dinner time so I ordered stuffed chicken breast.  The dinner roll alone is a meal.  I can't say enough about dinner.  Everything is homemade. They don't add alot of salt, if any.  You can tell its fresh.  Its plentiful.  Its cheap.  You literally can stuff yourself for next to nothing.\n\nYou can't possibly leave this place without indulging on some bakery goods to take home, IF they can make it home.  In our case, they were safely packed in the trunk for our safety and yours.  The last thing we need to explain to the police is we were under the influence of bakery goods from the Pine Cone.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["homemade","fresh","plentiful","indulging on bakery goods"], 
+        "Ambience": "", 
+        "VFM": ["cheap","stuff yourself for next to nothing"], 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1,1], 
+        "Ambience": 0, 
+        "VFM": [1,1], 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "_utPYHIdXeq8CqQ4iYD1bw", 
+    3, 
+    "Ate a Saturday morning breakfast at the Pine Cone.  Friendly,quick service, normal prices.  But for the new year - the special was all-you-can-eat pancakes for $2.12, I added a breakfast sausage patty ($3.00).  Father had the typical, two eggs, toast, hash-bowns (seem fresh cut), sausage links.  Food was tasty, no major qualms other than - the hash-browns need a bit more cooking and the coffee needs a bit more bite.\n\nvery nice assortment of baked goods - massive - as large as your head cream-puffs, eclairs - I took a blueberry muffin to go - which I enjoyed.  \n\nQuick exit from I-94...just northeast of  Madison", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["tasty","need a bit more cooking","coffee needs a bit more bite","nice assortment of baked goods","massive","enjoyed"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,-1,-1,1,1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "6wFJ0Ml7r9elqjeoez3HXQ", 
+    4, 
+    "Attention fans of David Lynch.  Do stop by this place.  The atmosphere, staff and patrons will certainly help to make your visit enjoyable.\nLast time I was here I ordered the caramel nut covered cinnamon roll.  The waitress asked if I wanted it warmed with some butter.   I thought that sounded even better and said to go ahead and do that.  She nodded agreement.  Then when she brought it to me it was unheated and no butter.   Odd but also kind of humorous.  I always enjoy being in a David Lynch film from time to time.\nThe service and food is way better than the country restaurant just a mile south on 51.  Be sure to go here instead.   Their booths are made for skinny people from the 50s.   take a table.  start a conversations with the truck driver to your left. \nWe used to go to the Pine Cone when it was across the street.  Must be hard times for these guys because the interior appears to be older than what they had when they were on the other side of the street.   That place now sits empty.   Why is this area depressed?   Don't ask me, I don't know.  Do I look like I have all the answers?\nThe food here is good and the prices are cheap.   Go here for a nice meal and a flash back to the past and don't forget to take home some bakery.  Or if you aren't hungry just stop by for some great baked goods.    Well worth the stop.\nThis place gets four stars because of their five star bakery selection.  Crazy big cinnamon rolls and good prices.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["food here is good","for a nice meal","for some great baked goods","five star bakery selection"], 
+        "Ambience": ["atmosphere, staff and patrons will certainly help to make your visit enjoyable","booths are made for skinny people","interior appears to be older"], 
+        "VFM": "prices are cheap", 
+        "Service": ["atmosphere, staff and patrons will certainly help to make your visit enjoyable","way better than the country restraunt"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1,1], 
+        "Ambience": [1,-1,-1], 
+        "VFM": 1, 
+        "Service": [1,1]
+      }
+    }
+  ], 
+  [
+    "rgM9f8Xh6ySclVoOSR8MXw", 
+    5, 
+    "i rarely give five star reviews but for what this restaurant is, it's pretty perfect.  i've only eaten breakfast here (twice in the last three weeks) and the eggs are cooked perfectly, the sourdough toast is made in the kitchen and is delicious, and the bacon was perfectly crispy.  the hashbrowns are the best i've had in a long time - perfectly crispy on the outside and fluffy inside.  the pancakes are huge and light and amazing.  the cinnamon rolls taste just as good as they look.\n\nprices are right on, baked goods are pretty great.  service is fast and friendly - really fast.  i haven't had to wait more than 5 minutes to get my meal.  i might be in the honeymoon phase, but perfectly cooked poached eggs or over easy eggs are hard to come by!  it shouldn't be an anomaly to discover well cooked food, but i suppose it is.  sure it's a \"greasy spoon\" but how many greasy spoons bake their own bread?  can't recommend this place enough for great breakfasts.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["the eggs are cooked perfectly","the sourdough toast is made in the kitchen and is delicious","the bacon was perfectly crispy","perfectly crispy on the outside and fluffy inside","the pancakes are huge and light and amazing","the cinnamon rolls taste just as good as they look","baked goods are pretty great"], 
+        "Ambience": "", 
+        "VFM": "prices are right on", 
+        "Service": "service is fast and friendly - really fast"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1,1,1,1,1], 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "khGSK7FRLuRWnnTE6I0stA", 
+    4, 
+    "With a recent addition of a truck driver for a BF I have found myself frequenting truck stops to dine. This little place is quite a pleasant surprise. Basically it is just great home cooking. Everything is homemade and quite good. The baked goods in the front counter were amazing. The size of the cinnamon rolls were insane. And of course I couldn't leave without a piece of pie.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["everything is homemade","quite good","baked goods were amazing","cinnamon rolls were insane","couldn't leave without a piece of pie"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1,1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "mdjs8GJUfqGajVMjgOrP5Q", 
+    4, 
+    "This is one of the best breakfasts I have had! Is the decor dated? Absolutely but it just adds to the nostalgic charm! The place just reeks of beef cooking... Ahhh delicious! Check out the pastry cases!!!! OMG, is all I have to say!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["one of the best breakfasts","beef cooking delicious"], 
+        "Ambience": ["dated decor","nostalgic charm"], 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1], 
+        "Ambience": [1,1], 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "Vqkv071v8vLA2ux8aOeICQ", 
+    5, 
+    "hands down one of the best breakfasts my wife and i have had. stopped in here based on the positive reviews from fellow yelpers and was sure glad i did. \n\nthis is a good sized diner at a truck stop. the first thing that caught our eye was the pastries - they were all huge and all looked great. tip - be sure to save space for at least one. \n\ni went with the cinnamon roll french toast and was very pleased. very large portion and great taste - go witht the sausage patty over the links. people behind us had links on their plate and they didnt look too appetzing. the patty was good. \n\nwife went with a chicken friend steak, eggs, and hashbrowns. hashbrowns left a bit to desire but they get bonus points for being real potatoes and fresh. \n\noverall, great experience and we were in and out in 35 mins so we could continue out journey. looking forward to stopping here again sometime soon.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["one of the best breakfasts","pastries were huge and looked great","great taste","left a bit to desire","fresh"], 
+        "Ambience": "good sized diner", 
+        "VFM": "very large portions", 
+        "Service": "great experience"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1,-1,1], 
+        "Ambience": 1, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "gksnzyc9jQ9hNXESjvTrQw", 
+    3, 
+    "This is definitely not your usual truck stop. Pastries look delicious. Dinner rolls are large enough for a meal themselves and good!  We had a young waitress who I think was new. We found her to be sweet, polite and trying very hard. The lady managing the restaurant was really rude to her. We could all hear it.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["pastries look delicious","dinner rolls are large enough for a meal and good"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ["sweet,polite and trying very hard","lady managing the restaurant was really rude"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": [1,-1]
+      }
+    }
+  ], 
+  [
+    "ilPs2w4liKDvlqLhWrkI8Q", 
+    4, 
+    "A delicious breakfast.  Amazing fresh bakery and pastry items.  HOWEVER, the parking lot/gas station area is filthy.  Strewn with debris, dead cars, broken glass.  If you judge a book by this cover you would NEVER venture inside.  I hope the Mgr.  sees this and cleans up.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["delicious breakfast","Amazing fresh bakery and pastry items"], 
+        "Ambience": ["parking lot/gas station area is filthy","Strewn with debris, dead cars, broken glass"], 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": [-1,-1]
+      }
+    }
+  ], 
+  [
+    "kAFG3i8DsfTkJePPEMc9Ig", 
+    5, 
+    "Don't be fooled because it's in a truck stop, truckers know where there are good places to eat. Stop here just for the desserts, I bought an eclair that must have weighed a pound, delicious, like they are supposed to be made. Cream Puffs look like they wouldn't fit in a one pound coffee can... grin. Don't miss this place...", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["must have weighed a pound, delicious","like they are supposed to be made"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "ue3D7WBI4ZQxH43wMdpfcA", 
+    3, 
+    "Continuing on my Saturday morning hangover theme: there's just something about a plateful of greasy food when you're slightly hung over that makes it all better. The Pine Cone has down-home, rib-sticking, greasy food in spades.  The SO and I split the chicken fried steak, which comes with plenty of toast, hashbrowns, and two eggs.  I could'nt finish mine!  The gravy must be the same that they use for biscuits and gravy, because it tasted sausage-y, and as my plate sat there I could see the grease rising to the top.  BUT--I didn't come here in search of health food, and it was just what the doctor ordered. I'll work out later.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["greasy food","rib-sticking","down-home"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "DAFwq9T6sKDYiyQHiAzVbQ", 
+    5, 
+    "Some times Jane and Michael Stern are on point and other times the story of the place beats the food.  I would definitely return to the Pine Cone.  It's a bakery and diner attached to a truck stop on the Wisconsin highway.  I live in Chicago and work in a famous Mexican restaurant and I get up to Wisconsin for the old school steak and butter as much as possible: it gives me the energy to do my job.  Pine Cone has eclairs and cream puffs the size of my cat.  And I got a pig cookie.  This little truck stop gives me the big energy to get even deeper into steak and butter territory.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["definitely return"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "PCa_K6ijV3Tzbp6nouEiJQ", 
+    4, 
+    "I like this location better than the one near Johnson's creek.  It is a bit tight when you walk in, but the charm soon takes over.  \n\nI was not really impressed by the food.  However, their pastries won my over.  Try it all!  The pie was delicious.  I went with a simple apple selection.  Delicious, perfection.  It is nothing crazy, no fancy name but truthfully one of the best piece of classic apple you can find around here.  \n\nThe service is a little slow but once again, it is a small restaurant with lots of charm.  You get what you get and I love it.  It is near a Christmas tree farm so it is the perfect place to stop and get some cocoa on your way.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["not really impressed by the food","pie was delicious","simple apple selection was delicious"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "a little slow"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "rYKHcfBvFjqd5qvbX700_Q", 
+    5, 
+    "This place was excellent. We were a little nervous because it is in a truck stop but the food was absolutely delicious and the service was fast and friendly.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "absolutely delicious", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "service was fast and friendly"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "xpQe4tiCdZuQdmQsgtMErA", 
+    5, 
+    "OMG!  The bakery items at Pinecone are AMAZING!   Cinnamon rolls as big as your head and absolutely scrumptious!   The food in the restaurant is great for truck stop food.  We've only come for breakfast but stop every single time we head up to Rhinelander,  WI.  Do NOT miss this place if even only for their baked goods!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["bakery items are amazing","absolutely scrumptious","great for truck stop food"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "2owUZZsM0fuMNhzIfWcqRQ", 
+    4, 
+    "A really lovely surprise on a rather horrific family road trip.\n\nWe were greeted at the door, the waitress was a peach, and the nice man who filled water/helped out was the sweetest guy ever. The food is also great if you're a fan of the diner-type grub; my hot turkey sandwich will live on in my dreams.\n\nYou can definitely tell the place has the old time appeal of a great family place as all the locals (mostly older people) know each other and it's clear it's the happening place for breakfast with the over-60 crowd (but hey, that says the food has to be pretty homestyle and tasty to me.)  \n\nIf you're headed down 94 and need a good lunch stop, make this it.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "food is great", 
+        "Ambience": "has the old time appeal of a great family place", 
+        "VFM": "", 
+        "Service": "greeted at the door"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "BfPKrRDzpeQsljyxMa5sSA", 
+    5, 
+    "Very nice and clean place to have breakfast or lunch", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "Very nice and clean place to have breakfast or lunch", 
+        "Ambience": "Very nice and clean place", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "HAFNOdoQEluZxGDshb7vOQ", 
+    5, 
+    "I eat here regularily because it is consistently good.  Very large menu which makes it tough to choose but never disappointed!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["eat here regularily","it is consistently good","never disappointed"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "C4gpNPcwPRT7Pd3Dh1247A", 
+    4, 
+    "Unlimited hot coffee. I don't have any recollection of what I ate....\n\nI wanted t give it four stars, but that would be a very generous review for a meal I cannot recall.\n\nI know it was decently good, and it's like the only restaurant in Deforest.\n\nFor that, I give it four stars.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "it was decently good", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "64ruCMTy3YpUfK33GS8weg", 
+    5, 
+    "Homestyle cooking at its best, dnt go to culvers, McDonald's or whatever trash is right off the hwy, head a bit further down u will find this gem, one of the reasons I love this place so much? They dnt play annoying music, scratch that, they don't play ANY music. People working here are super nice as to be expected. If I owned this joint, I would invest in a new bigger sign, as I drove right by this place and almost missed it twice.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "Homestyle cooking at its best", 
+        "Ambience": ["don't play any music","small sign board"], 
+        "VFM": "", 
+        "Service": "People working here are super nice"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": [1,-1], 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "QsrzjenckNACuOgaEiMWfA", 
+    4, 
+    "Nice simple homey diner. Very friendly staff, huge family friendly menu, salad bar. If you are on the road this beats the same old options.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "huge family friendly menu", 
+        "Ambience": "Nice simple homey diner", 
+        "VFM": "", 
+        "Service": "Very friendly staff"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "rEmo-x2TEkgGlTUZHc2PKQ", 
+    5, 
+    "Love their breakfast menu & they have friendly waitstaff. We go there nearly every Friday for the last 4 yrs.  I love that they don't play any music.  It is quiet, conversational, and comfortable.", 
+    {
+      "category": {
+        "Food": 0, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "love breakfast menu", 
+        "Ambience": ["love that they don't play any music","quiet, conversational, and comfortable"], 
+        "VFM": "", 
+        "Service": "friendly waitstaff"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": [1,1], 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "IaONpXIHNtIBrmMU668OdQ", 
+    1, 
+    "Went here for lunch with two co-workers, checked Yelp before we went and the reviews were very positive so we decided to give it a try.\n\nYikes! How can the reviews be 4-5 stars and the service at best \"average\", the food was terrible and myself and my co-workers all agreed, this restaurant doesn't rate two stars.\n\nI had one of the special Friday offerings, Smelt. It came with a salad (very average but fresh), fries (ordinary) and the Smelt. After a 20-25 minute wait our server came with our orders. I looked at my plate and was shocked! There was 12-15 so-called Smelt about 3\" long and deep fried. They looked like little fat cigarettes! I bit into one and it was all batter, I tried another and it was the same. I had deep fried batter for lunch!!\nI haven't had a meal this bad since I got out of the Navy! \n\n My co-workes meals were not much better, one had Chicken Fried Steak and he said it was made out of the box. My other co-worker had the Cod and he said it was mushy and brown colored! YUK! \n\nI hate to write such a negative review but this restaurant earned \"one\" star. Maybe they have great breakfast! I hope they do because their lunches are sub-par. \n\nThere are other restaurants on this street/highway, I'd give them a try before I stopped here. I know my co-workers and I won't be coming back.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["food was terrible","haven't had a meal this bad","won't be coming back"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "After a 20-25 minute wait"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,-1,-1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": -1
+      }
+    }
+  ], 
+  [
+    "eePGdbbqruayA3UZKcm9jw", 
+    4, 
+    "Don't have time and/or cute outfits for Madison but want an alternative to Cracker Barrel? This is your stop. I started with the chicken dumpling soup. Simply divine, so much as to seriously tempt my veg accomplice. Cheese curds were another hit, far superior to those from the state fair.  Wraps, sammys, even the fried mushrooms were consistent, wholesome, and fresh. Service was on point, our waitress Brianna was business pro.  People watching was a little poor(s), to be expected in rural Midwest? I think our impassioned debate over drug use might have startled the crowd.\n\nNonetheless, not a Cracker Barrel. Takes Amex.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Simply divine","Cheese curds were another hit","far superior to those from the state fair","fried mushrooms were consistent, wholesome, and fresh"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "Service was on point"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "fgPJmaGRiLgOmEdz9DEEPQ", 
+    4, 
+    "Huge menu, fresh tasty food, reasonable prices.  Beats a chain highway place for sure. The chicken dumpling soup alone is worth a trip (fresh made every day and it caused my vegetable-phobic daughter to eat carrots and celery of her own voltion!);  the steak-cut French fries were great and the coconut cream pie was wonderful.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Huge menu","fresh tasty food","Beats a chain highway place"], 
+        "Ambience": "", 
+        "VFM": "reasonable prices", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1], 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "yc0GhIx7gY2d3qb84xW1MA", 
+    4, 
+    "Food was very good. I had the Reuben sandwich. My only suggestion is that the waitress should check back more often to see if we need anything. Otherwise, I recommend it.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "Food was very good", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "waitress should check back more often to see if we need anything"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": -1
+      }
+    }
+  ], 
+  [
+    "by1vl1hP-gZMSn0ChXlGWA", 
+    2, 
+    "My boyfriend and I came here to have breakfast after New Years. We weren't expecting much being not at our best either. \n\nThe service, as mentioned several times in yelp, is really slow. My drink was forgotten about and the next time our waitress came around she was serving our meal about 30-40 minutes from taking our order. The restaurant was probably half full of people. My boyfriends meal was mediocre \"at best\" as he put it but my meal was worse. My bacon and egg omelette was burnt and the cheese was scarce. \n\nAt the end of our meal, our server still charged us for the missing drink but they were kind enough to take it off the bill, that is while we waited 10 minutes standing at the register. I wouldn't go back to this restaurant because I think my time is worth more than they treated it but could be nice for those who think differently.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["meal was mediocre, worse","bacon and egg omelette was burnt and the cheese was scarce"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ["really slow","drink was forgotten","meal served after 30-40 minutes from taking the order"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,-1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": [-1,-1,-1]
+      }
+    }
+  ], 
+  [
+    "4it5bgKLOwplPWKZK4Q6cw", 
+    4, 
+    "Nice clean place with a very friendly staff.  Great homemade chicken dumpling soup and a very tasty club sandwich.  Decor is outdated, but not sloppy. Good local place to bring the family.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Great homemade chicken dumpling soup","very tasty club sandwich"], 
+        "Ambience": ["Nice clean place","Decor is outdated","not sloppy","Good local place"], 
+        "VFM": "", 
+        "Service": "very friendly staff"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1], 
+        "Ambience": [1,-1,1,1], 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "xjyVKwC1azTtDLrShQBthQ", 
+    5, 
+    "Californians are all about the In-N-Out, where you can get your burger animal style. And the Midwest is all about Culver's, where the Butter Burger is the thing to order.\n\nC. and I ate lunch here on our way between Milwaukee and Mosinee before going to my folks for Christmas. I got a cheddar burger with fries, and C. got the two-piece chicken dinner with mashed potatoes and green beans.\n\nThat's one of the things I love about Culver's. Yes, it's a fast food restaurant. But they also do family restaurant food well. The chicken was good and the green beans really fresh, C. said. Fast food you can feel good about.\n\nI also got a frozen custard, their flavor of the day: Swiss almond Christmas or something like that. Chocolate custard with slivered almonds. Yummo.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["chicken was good","green beans really fresh","Yum"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "67d-r6tRNFSWXbvGR6FPDg", 
+    4, 
+    "I wanted ice cream so my husband pulled off the highway at this Culver's. We opted to get the flavor of the day (cookie dough craving). I was disappointed to find that it was a chocolate custard with TONS of cookie dough chunks because I like custard and not just the mix-ins, etc. but it was overall a decent sundae. I'll just stick to vanilla next time!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["was disappointed","overall a decent sundae"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "nmX7lMtrsWw_z6i6Nt5ltA", 
+    5, 
+    "Next to Chick-Fil-A, Culver's is my favourite fast food chain.  Rarely is a snowboarding trip complete without Culver's to top off the day.\n\nThe butter burgers hit the spot (though mine was heavy on the red onions; good thing those are easily removeable), and the fried cheese curds are to die for.  You don't find those floating around just anywhere.  But if there is anything you MUST get, it's a cup of the frozen custard.  Damn, that's good stuff.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["my favourite fast food chain","the fried cheese curds are to die for","damn,that's good stuff"],
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "iEkq9MFkcop1_CVnl-INSA", 
+    5, 
+    "Go-to meal: cheddar butter burger, fried cheese curds, and flavor of the day custard.\n\nThe difference between a deluxe burger and cheddar butter burger is that in the deluxe, you'll get American cheese.  And you have to pay 25 cents extra to add lettuce, tomato, etc. to the cheddar butter burger.  File that away in your memory bank.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "Go-to meal", 
+        "Ambience": "", 
+        "VFM": "have to pay 25 cents extra, file that away in your memory bank", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "sywSyodHZeCQUJTftQej1w", 
+    4, 
+    "Really good stuff!! The custard was great! I loved it and when I am back in the old USA I can only hope I will cross paths with another culvers.\n\nYou know what the thing is with culvers? You actually don't need that much, it's sort of like eating cake batter or cookie dough. You can only have so much before you start getting that sickly feeling and start stirring that plastic spoon around and staring down the custard and wondering why you dont wanna finish. Yeah it's custard and it's heavy especially when you add every kind of peanut butter chocholate bar to the mix.Let me tell you those first five spoonfuls are pure goodness then it goes downhill. Less is more with this stuff let me tell you! Next time I am getting the smallest size, and I will be far more pleased and not guilty I threw out a mega size bucket. Hahaha!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Really good stuff","custard was great, loved it"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "Ddu4pw-Yj3Xqk7lnA6Zo1Q", 
+    4, 
+    "My meaty goodness...why isn't Culvers a nationwide chain?  This bacon cheese burger is way too good to come out of a fastfood drive through window.  I had a nice little picnic on the tailgate of my pickup (driving cross country....long story).  I could not believe how great this burger was. \n\nThe amazing part is the onion rings might be better than the burger.\n\nIf you're passing through Wisconsin, you need to stop at Culvers.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["way too good to come out of a fastfood drive through window","could not believe how great this burger was"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "kzFlI35hkmYA_vPSsMcNoQ", 
+    5, 
+    "Love it!!!!! Love it!!!!!! love it!!!!!!!   Who doesn't love Culver's!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "love it", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "Tfn4EfjyWInS-4ZtGAFNNw", 
+    3, 
+    "Everything was great except for the burgers they are greasy and very charred compared to other stores.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Everything was great","burgers are greasy and very charred"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,-1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "ZYaS2P5EmK9DANxGTV48Tw", 
+    5, 
+    "I really like both Chinese restaurants in town.  This one has outstanding crab rangoon.  Love the chicken with snow peas and mushrooms and General Tso Chicken.  Food is always ready in 10 minutes which is accurate.  Good place and they give you free pop.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "has outstanding crab rangoon", 
+        "Ambience": "Good place", 
+        "VFM": "", 
+        "Service": "Food is always ready in 10 minutes which is accurate"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "uOLM0vvnFdp468ofLnszTA", 
+    3, 
+    "Above average takeout with friendly staff. The sauce on the pan fried noodle is tasty. Dumplings are quite good.", 
+    {
+      "category": {
+        "Food": 0, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["sauce on the pan fried noodle is tasty","Dumplings are quite good"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "friendly staff"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "b3u1RHmZTNRc0thlFmj2oQ", 
+    4, 
+    "We order from Chang Jiang often and have never been disappointed.  The menu is huge, and can accomodate anyone's taste buds.  The service is quick, usually ready in 10 minutes.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["have never been disappointed","menu is huge"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "service is quick, usually ready in 10 minutes"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "_vzTyyPLOgVxNCuWRKOb1w", 
+    3, 
+    "Grade: C\n\nThe food is almost as good as the prices. Decent service.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "food is almost as good as the prices", 
+        "Ambience": "", 
+        "VFM": "food is almost as good as the prices", 
+        "Service": "Decent service"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "McrBBaa12WfHKTzOCCh7DA", 
+    4, 
+    "I have never eaten at the Green Lantern, but whatever.  What I HAVE done is gone to karaoke there.\n\nI am not the kind of person to enjoy a \"hip\" bar.  I don't want ironic metal on the jukebox or $8 flirtinis.   What I want is totally unpretentious karaoke renditions of Unskinny Bop from people that still look like they graduated high school in 1991, and $2.50 vodka and cranberry juices.", 
+    {
+      "category": {
+        "Food": 0, 
+        "Ambience": 1, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "", 
+        "Ambience": "hip bar", 
+        "VFM": "totally unpretentious $2.50 vodka and cranberry juice", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 0, 
+        "Ambience": -1, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "i6x1HRWR6BSJIkiKdeQhYQ", 
+    4, 
+    "I'm sure if I drove far enough outside of Minneapolis I'd find a place about as awesome as the Green Lantern. Instead of doing all of that work, I just wish the Green Lantern would move into my backyard.\n\nI HATE bars where I feel like I have to do a lot of work just to try to have a good time. I'm not dressing up or drinking a certain drink just to feel like I have a shot of being accepted somewhere, believe me. The Green Lantern rules because it's completely laid back and totally unpretentious. I've seen such a wide variety of people there and everyone is always having a great time.\n\nBesides, the drinks are super strong and cheap - that alone is good enough for me.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "the drinks are super strong and cheap", 
+        "Ambience": ["it's completely laid back","totally unpretentious"], 
+        "VFM": "the drinks are super strong and cheap", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": [1,1], 
+        "VFM": 1, 
+        "Service":0 
+      }
+    }
+  ], 
+  [
+    "sSMG7T3hzRbkwqwYTv8i-A", 
+    4, 
+    "The biggest plus is it is on the lake with a dock and open for breakfast.\n\nThat is huge if you are a fan of a boating trip to eat ...I'll swing by soon to actually eat there again ...it's been 3 years since we had a boat.\n\nWe did find a used boat ...now we may return.\n\nI guess that says a lot as without the boat, we do not go, with a boat, its a 6 out of 5 stars!!!!", 
+    {
+      "category": {
+        "Food": 0, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "", 
+        "Ambience": "if you are a fan of a boating trip to eat", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 0, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "0Yy6Zzg11ZzmGtIVG9rPog", 
+    4, 
+    "Who does not love the Greeny?  As some posts before me it is a place you can go and have a good time no matter what and just be you.  The staff is awesome and the food is decent.  But the Green lantern has something that other places try to imitate, atmosphere. \n\nI have seen bar after bar try and create a fun atmosphere but they cannot.  The Greeny has it and I wish I could get there more than I do.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "food is decent", 
+        "Ambience": ["other places try to imitate its atmosphere","fun atmosphere"], 
+        "VFM": "", 
+        "Service": "staff is awesome"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": [1,1], 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ],
+[
+    "waN4WoehyDitk7-jyLYKyw", 
+    4, 
+    "This is a good Chinese place. Will it take you to a place you've never been? No. But you will leave satisfied.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "good Chinese place | you will leave satisfied", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "sR8wgUfBwMaIwKphjRs09g", 
+    3, 
+    "Food: It's overall pretty good and probably one of the more reliable options for semi-authentic Chinese food in the Madison area.  To this Asian, there is definitely some catering to Western palates.  Definitely a step down if you're used to eating at, say, Chicago's Chinatown (both old and new sections), and there's no extra menu in Chinese with the more eclectic stuff.  Fresh seafood options very limited.\n\nService: Average.  Food comes in a reasonable time, though refiling the water sometimes is spotty.\n\nValue: Reasonable overall.  Prices fit the portions. Most entrees $9-15 range.\n\nOverall: Good for when you crave Chinese, but I'd still head to Chicago for the more authentic stuff.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["more reliable options", "no extra menu in Chinese with the more eclectic stuff","Fresh seafood options very limited"], 
+        "Ambience": "", 
+        "VFM": ["Reasonable overall","Prices fit the portions","Most entrees $9-15 range"], 
+        "Service": "reasonable time"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1, -1, -1], 
+        "Ambience": 0, 
+        "VFM": [1, 1, 1], 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "lgaPs6OzQbS4QaPkgGI1Mw", 
+    3, 
+    "Three stars = A-OK.  It was fine.  It wasn't great.  This place has been here for about 30 years.  Before that it was a car wash.  I always think of it as the place that used to be a carwash.\nAnyway.  Went with a group of 15.  Mom was buying and we got the \"Classic\" banquet (the cheapest one).  It was more food than we could eat.  The food was fine.  Not awesome.  The best flavor was hoisin sauce and, well, that comes out of a jar.\nWe got a sesame chicken that had nicely deepfried chicken chunks in a citrus-y sweet sauce.  Some trout that my sister insisted on and really enjoys (not my thing, but everyone else liked it).  Mu-shu pork - it was good.  Delightful (?) beef, kinda bland, but nothing yucky in it.  Aaaannd, oh yeah, crispy duck.  Very crispy, as in dry.  Not so great.\nThe kids got those finger trap toys with their fortune cookies.  The waitress was cheerful, accomodating and informative.  Extra help came out when needed.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["It was fine","It wasn't great.","Not awesome.","sesame chicken that had nicely deepfried chicken chunks","Delightful beef, kinda bland, but nothing yucky in it" ,"crispy duck.  Very crispy, as in dry.  Not so great."], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "The waitress was cheerful, accomodating and informative"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1, -1, -1, 1, 1, -1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "VQ5ulvpbdtMG62G-6YZEsg", 
+    5, 
+    "I think some of the best Chinese food in Madison.  A little pricey but a few dishes always feeds me for at least two additional meals.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "best Chinese food", 
+        "Ambience": "", 
+        "VFM": "A little pricey", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": -1, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "SDNd0OwUHw2NaZuS6iQy2g", 
+    2, 
+    "Imperial Garden has been around a long time and seems to be a local favorite. That struck me as a very bad sign when I came to Madison almost 20 years ago, and that continues to be the case. The food is insipid, blandly spiced to appeal to unadventurous midwestern tastes and with a menu reminiscent of the Americanized Chinese palaces of the 1950s. I end up there with various groups on occasion, but try to keep it to no more frequent than once every five years (more frequently in my first years in Madison, less so now). It's not that there are vastly superior authentic Chinese options (although I prefer P. F. Chang's, recognizing its limitations), but one does better with other Asian options when in Madison--particularly Thai/Laotian, but also Indian (with many new options in recent years).", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["The food is insipid, blandly spiced","one does better with other Asian options when in Madison"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1, -1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "qiBoeTWO3BbvKaWNJ0kmLQ", 
+    2, 
+    "It's perhaps the closest you can get to authetic Chinese food in a place like Madison, particularly after China Palace closed. The food is alright, it's been embellished in a way to appeal to an American audience, but at least the some of the menu choices are pretty real. \n\nMy real problem with this place is the service: The menu was misinforming and didn't specify that some steamed fish dish was a filet as opposed to a whole fish. I politely complained to the waitress about my order not being accurate and she informed her manager. The manager only ended up refunding me 50% off the item ordered and began telling me how you wouldn't refund someone a fancy steak in an expensive restaurant!\n\nIn the end, I paid for my meal and tipped the poor waitress, but I will never visit this place again. I'm not sure if that manager woman was giving me a hard time because I was a young college student or what, but her management skills leave much to be desired.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["closest you can get to authetic Chinese food","The food is alright","some of the menu choices are pretty real"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ["The menu was misinforming and didn't specify","my order not being accurate","wouldn't refund someone "]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": [-1,-1,-1]
+      }
+    }
+  ], 
+  [
+    "OFwlRHVrbi_-5jk1j-JOlQ", 
+    1, 
+    "This was, quite possibly, the WORST Chinese food (if you can call it that) that I've ever eaten in my life.\n\nWe started with the appetizer platter for two.  The calamari was so stringy that I had to swallow it in one bite because I couldn't separate it with my teeth.  The egg rolls were at least crispy and well-rolled, but they had absolutely no seasoning other than a tad too much salt.  The shrimp were overcooked, the barbecue pork was dry, and the hot dumplings were cold and under seasoned.\n\nThen came the entrees.  I ordered Imperial Chicken, thinking that being the restaurant's namesake, it had to be good.  I was wrong.  The breading was mushy, the chicken was dry, and the sauce was basically  sweet and sour sauce with added hoisan, and several dried peppers that were burnt so badly they added an unintentional, overdone smoky flavor.\n\nMy boyfriend ordered the Ma-po Tofu.  He loves spicy food, and this was just a little spicy, but the spice overpowered all the other flavors in the dish (besides the scallions).  The tofu was a good texture, but the unbalanced sauce flavors basically rendered it inedible.\n\nApart from the horrendous food was the tepid service.  I had to ask several times for a glass of water.  The waitress came by with the water pitcher and had just enough to fill my glass up halfway, so she returned to the kitchen for a refill and stopped by to fill my boyfriend's glass.  By this time, I drank my half glass of water - and she didn't even bother to top mine off.  I tried to ask for some, but she walked away.  \n\nPlus, I thought it was supposed to be an authentic Chinese food restaurant - what's with the Vivaldi and Mozart soundtrack?\n\nSkip this place all together and hit up the Asian grocery and gas station next door.  On Fridays, they receive shipments of Pork Bao in from a bakery in Chicago that are to die for!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["the WORST Chinese food","calamari was so stringy","they had absolutely no seasoning other than a tad too much salt","The shrimp were overcooked","the barbecue pork was dry","the hot dumplings were cold and under seasoned","The breading was mushy","the chicken was dry","several dried peppers that were burnt so badly","unintentional, overdone smoky flavor","the spice overpowered all the other flavors","tofu was a good texture","the unbalanced sauce flavors basically rendered it inedible","horrendous food","Skip this place all together"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "tepid service"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,-1,-1,-1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": -1
+      }
+    }
+  ], 
+  [
+    "_0ugMyohu3HtvtmHXmJWng", 
+    3, 
+    "Probably the best Chinese in Madison these days.  Unfortunately, that is not saying much.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "the best Chinese in Madison", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "Yi2O65hivy_kzn8iSJnleg", 
+    2, 
+    "Took four kids tonight and we were all underwhelmed. The chicken egg drop soup was oddly sweet. We got a barbecue pork dish and some beef dish that both had a bland gravy. A huge platter of pot stickers that got everyone excited but ended up being ... bland. Even the dipping sauce just tasted like soy sauce. The calamari was not tough. I'll give them that. If this is the best Chinese food around... I'm sorry.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["soup was oddly sweet", "both had a bland gravy","calamari was not tough"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,-1,-1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "huwwc1ZpFgCtV2WLS9qIXQ", 
+    4, 
+    "Best chinese is Madison by far, but very expensive! You do always get great service though. Yum!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Best chinese is Madison by far","Yum!"], 
+        "Ambience": "", 
+        "VFM": "very expensive", 
+        "Service": "always get great service though"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1], 
+        "Ambience": 0, 
+        "VFM": -1, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "PtYEtgyiHYvNF2CcZ7v9Lg", 
+    5, 
+    "We visit family in Madison at least twice a year and always make sure to have dinner here.  The shrimp sizzling rice soup is absolutely to die for, and every entree I've had has been fabulous.  Hands down the best Chinese food I have ever had.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["The shrimp sizzling rice soup is absolutely to die for","every entree I've had has been fabulous","Hands down the best Chinese food"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "9mnSxTZlMmtt7uWj_nLsJQ", 
+    5, 
+    "This place is wonderful.  One, Almost anything on the menu can be made gluten free.  Two, They have about 7 different types of loose teas to choose from.  Three, The food is GREAT!\n\nMy favorite dishes are the Three Delicacies Sizzling Rice Soup and  the Tofu Lettuce Wraps.  I am not lying when I say that I have NEVER had a dish I didn't like here.  The food is never greasy, never oversauced and never overcooked.  The seafood and veggies always have a really fresh taste... I seriously have no complaints at all.\n\nI miss you.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Almost anything on the menu can be made gluten free","7 different types of loose teas to choose from","The food is GREAT!","My favorite dishes are the Three Delicacies Sizzling Rice Soup and  the Tofu Lettuce Wraps","I have NEVER had a dish I didn't like here","The food is never greasy","never oversauced and never overcooked","The seafood and veggies always have a really fresh taste"], 
+        "Ambience": "This place is wonderful", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1,1,1,1,1,1], 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "DcJZa7xKv24j75BHu4Lupw", 
+    3, 
+    "Just an update to say they don't even have the #1 spot anymore as that goes pretty easily to Ichiban on park.  Still, better than most in town.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "better than most in town", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "Dv0BTyIpNhHM7N_HJ3jV3A", 
+    4, 
+    "We only ever go for their lunch special - so that's what this review is, I haven't yet gone here for dinner.\n\nThe dishes are a little hit/miss for authenticity. The Imperial Chicken is really good (not breaded like someone else said, but it's great), the sweet and sour chicken is definitely a \"miss,\" the mu shoo pork is great, although a tad greasy, the fried spring rolls are fantastic, the egg rolls are okay. \n\nThe service is FANTASTIC and the price is unbeatable for what you get. We never walk  away from lunch hungry. I suggest getting there a little early for lunch (they open at 11am) because it can get a little crowded.\n\nAlso, I love their spicy mustard - you have to try it!!!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["The dishes are a little hit/miss for authenticity","Imperial Chicken is really good","sweet and sour chicken is definitely a miss","mu shoo pork is great","although a tad greasy","fried spring rolls are fantastic","the egg rolls are okay"], 
+        "Ambience": "it can get a little crowded", 
+        "VFM": "the price is unbeatable ", 
+        "Service": "The service is FANTASTIC"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,-1,1,-1,1,1], 
+        "Ambience": -1, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "QFkuq7vT_F4-RfqRugmVVA", 
+    2, 
+    "Fool me once, shame on you. Fool me twice, shame on me.\n\nI went there a second time because I couldn't remember if I liked the food or not (yes,it was THAT unremarkable). Upon going there the second time, I knew there would not be a third. Ever. \n\nI know this is Madison, but c'mon, I've had more authentic Chinese food at Panda Express. What should have been an immediate tip-off was the fact that there weren't any chinese words on the menu...and that all the clientele was white (again, yes I know this is Madison, but this is compared to other Chinese restaurants like Fugu or Ichiban). I don't actually remember the specific dishes I ordered (I've had fish, chicken, pork, and beef there), but it all just tasted as if it had been sitting in the freezer for months. Dry and flavorless. \n\nThe service was also slow. They refilled our glasses only once, after we had asked for the check.\n\nI won't be going back.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["it was THAT unremarkable","I've had more authentic Chinese food","there weren't any chinese words on the menu","tasted as if it had been sitting in the freezer for months"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "The service was also slow"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,-1,-1,-1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": -1
+      }
+    }
+  ], 
+  [
+    "1DnraCHqJGQ_uWVqfChx5A", 
+    1, 
+    "It is not delicious, but the service is good.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "It is not delicious", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "but the service is good"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": -1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "N8dvWtA26m1XchXEDZAMCg", 
+    2, 
+    "Often rumored to have the best Chinese food in the Madison area, this restaurant is a major disappointment. My spicy tofu and vegetables dish was not in the least spicy and the tofu was only fried and would have been better marinated. The entree my dining companion ordered was also sub-par. The service was very quick and the food served very quickly, maybe too much so. Madison has great Southast Asian restaurants, but I definitely won't be eating more Chinese food  anywhere here.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["this restaurant is a major disappointment","vegetables dish was not in the least spicy","tofu was only fried and would have been better marinated"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "The service was very quick and the food served very quickly"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,-1,-1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "P0HcCuf-Ghg35Fs7-mQACA", 
+    5, 
+    "Grilled potstickers, moo shu pork, cashew chicken. Yum!!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "Yum!!", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "jh8euyAwA6dTGPwf3FEZTA", 
+    5, 
+    "Yum!  Party of 7, everyone ordered their own dish and then shared with all.  Started with pot stickers and shrimp ragoon.  Grilled pot stickers were really good, could have just eaten those and been happy.  Appetizers came with a variety of dipping sauces.  Best dishes sampled were crispy orange beef, almond chicken and generals lamb.  Lamb was way tender, excellent choice.  Service was prompt and friendly, great atmosphere.  Ended meal with delicious mango ice cream.  Left happy and very full!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Grilled pot stickers were really good","Appetizers came with a variety of dipping sauces","Best dishes sampled were crispy orange beef","Lamb was way tender, excellent choice"], 
+        "Ambience": "great atmosphere", 
+        "VFM": "", 
+        "Service": "Service was prompt and friendly"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1,1], 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "mxEP8SItRNidu8Jo_olF0w", 
+    2, 
+    "I live on the east side of Madison and I always eat at the Imperial Gardens near E. Washington and this Imperial was a let down. The restaurant itself is beautiful and the decor is lovely but the food and staff wasn't as amazing as I hoped for. \n\nFor starters, the food is so expensive compared to the east side and the plates are larger but the portions are definitely not bigger. Our chicken sizzling rice soup was flavor less and completely watered down. My friend loves oyster beef but what received tasted completely different and it had a weird sort of sour after taste. I had the pepper steak and I did like how the onions and peppers are more thinly sliced but my meat also had a strange after taste.\n\nThe staff was very kind but a little annoying. It's was great at first to see how attentive they were to our needs but the waitress came to us almost every 10min and made awkward small talk which really bothered us. We could then see her staring at us from across the room waiting to start another unwanted conversation.\n\nImperial Garden Middleton will definitely be memorable but, for all the wrong reasons.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["this Imperial was a let down","food and staff wasn't as amazing","chicken sizzling rice soup was flavor less and completely watered down","weird sort of sour after taste","I did like how the onions and peppers are more thinly sliced","meat also had a strange after taste",""], 
+        "Ambience": "restaurant itself is beautiful and the decor is lovely", 
+        "VFM": ["the food is so expensive compared to the east side","portions are definitely not bigger"], 
+        "Service": ["food and staff wasn't as amazing","The staff was very kind","a little annoying","It was great at first to see how attentive they were to our needs","made awkward small talk which really bothered us"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,-1,-1,-1,1,-1], 
+        "Ambience": 1, 
+        "VFM": [-1,-1], 
+        "Service": [-1,1,-1,1,-1]
+      }
+    }
+  ], 
+  [
+    "nyPckYp-rdb9LCN2ti0AJQ", 
+    3, 
+    "Decent food, slightly more expensive than their competitors, and more legit varieties on their menu.\n\nI'll give credit to Imperial Garden's decor as it is significantly more eye-pleasing than other Asian restaurants and the fact that they have a full bar. \n\nI give kudos to this place because they're the only Chinese restaurant in the area that offers peking duck, a true Chinese specialty. Their seafood selection is also pretty upstanding and are cooked well. I'm also a fan of their \"banquet\" specials, which is for when you go in groups and they offer you a selection of X many dishes to share for a set price per person (this is available for lunch and dinner I believe, though I've never been here for lunch). \n\nAside from the aforementioned pros of Imperial Garden, the other dishes on their menu (if you order without doing the \"banquet\") is average-tasting at best and overpriced.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Decent food","more legit varieties on their menu","only Chinese restaurant in the area that offers peking duck, a true Chinese specialty","seafood selection is also pretty upstanding","are cooked well","average-tasting"], 
+        "Ambience": "I'll give credit to Imperial Garden's decor as it is significantly more eye-pleasing", 
+        "VFM": ["slightly more expensive than their competitors","overpriced"], 
+        "Service": "I'm also a fan of their banquet specials"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1,1,1,-1], 
+        "Ambience": 1, 
+        "VFM": [-1,-1], 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "Rh9GIe9GixvV6Lwr-vBMXA", 
+    4, 
+    "Im rating this more on being American Chinese then true authentic Chinese. That being said it was very nice inside. Not too formal but definitely not a take-out joint.\n\nWe got a cup of the Hot and Sour soup. Which is always my favorite. To try something different we got the Seafood Hot and Sour soup also. Almost taste just like the regular Hot and Sour put of course more of a seafood flavor then pork. It only comes in a serving that serves 2-3. Which is a great value because the 3 of us easily got 2 cups each out of it.\n\nThe Fragrant Pork had chestnuts, green peppers, onions, mushrooms and carrots in a garlic tomato sauce, Said that it was spicy hot put I only got a tiny bit of kick. Put still good being sweet and garlicky. \n\nThe Three Delicacies Sizzling Rice dish caught me by surprise in a good way. Expecting it would come with that same bland and over salty white sauce. But I couldn't stop tasting the sauce. It was like no other white sauce I have tasted before. The waitress poured the sauce for the dish right in front of you so it was \"sizzling\". The rice was on the bottom of the skillet plate so it ended up getting crunchy. Adding a great texture to the dish. The shrimp, scallops and chicken in the dish were tender. Also in it were pea pods, water chestnuts, carrots and mushrooms.\n\nEven the fortune cookie at the end was a better grade cookie then take-out places.\n\nService was helpful, attentive and friendly.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Said that it was spicy hot put I only got a tiny bit of kick","But still good being sweet and garlicky","Sizzling Rice dish caught me by surprise in a good way","But I couldn't stop tasting the sauce. It was like no other white sauce I have tasted before","great texture to the dish","shrimp, scallops and chicken in the dish were tender","Even the fortune cookie at the end was a better grade cookie"], 
+        "Ambience": ["it was very nice inside","Not too formal but definitely not a take-out joint"], 
+        "VFM": "comes in a serving that serves 2-3. Which is a great value", 
+        "Service": ["The waitress poured the sauce for the dish right in front of you so it was sizzling","Service was helpful, attentive and friendly"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,1,1,1,1,1,1], 
+        "Ambience": [1,1], 
+        "VFM": 1, 
+        "Service": [1,1]
+      }
+    }
+  ], 
+  [
+    "--uHuB7Q9AbWPZPJoszIfg", 
+    3, 
+    "For Wisconsin, this is about the best you are going to get for Chinese Food.\n\nSorry, you live in Wisconsin.\n\nBut the food is very good.  Huge servings, enormous shrimps, chicken that is tender, fresh rice.\n\nDon't complain Cheeseheads, this is good as it gets for Chinese in Wisconsin.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["this is about the best you are going to get for Chinese Food","the food is very good","enormous shrimps, chicken that is tender, fresh rice"], 
+        "Ambience": "", 
+        "VFM": "Huge servings", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1], 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "fWwjh-79aID8x1qT3S0zZA", 
+    4, 
+    "Yum. Check out back of menu soups. Very good!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "Very good!", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "Mv8xaRhWFbTLLIULmEuHfg", 
+    5, 
+    "Lettuce wraps 3x better than PF Changs. If Yelp reviewers consider PF changs 3 stars, then this gets 5.\n\nJust to clear up for those who want authentic Chinese. Go to ICHIBAN NOW!!!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "Lettuce wraps 3x better than PF Changs", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "Oa_wOgiz8F1k_-dRow1Nhg", 
+    1, 
+    "How do you get voted best of for 31 years when what is served is awful? This is the worst Chinese food my entire family has had in years. We all ordered different things and none of us could eat our meals. That was $50 wasted. There was no flavor, or the flavor there was did not match the dish. How do you mess up beef fried rice? I can make it with more flavor. The Mongolian beef had a flavor but it was all wrong. If you want to waste money and still be hungry, this is the place for you. How do places keep getting good reviews when they are so bad. I use to trust Yelp reviews but lately, I've been fooled by the reviews.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["what is served is awful","This is the worst Chinese food","There was no flavor","the flavor there was did not match the dish","If you want to waste money and still be hungry"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,-1,-1,-1,-1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "Mw94fVzpV71ZZjhe01hgLA", 
+    2, 
+    "I had fond memories of dining at the Imperial Garden... back in the 1990s, when I didn't really have access to more \"exotic\" and interesting foods. I've been to this location twice within the past year or so - once for lunch with a coworker, and once for dinner with friends last night.\n\n+ Huge establishment - impressively big\n+ Quick to be seated\n+ Server was friendly\n+ Waters were refilled quickly\n+ Decent selection of bottled beers/drinks\n\n- Massive menu, but not really... many identical dishes on the menu, with different protein options\n- Food/dishes very salty, but otherwise bland in flavor. No spice, no interesting flavors/tastes\n- Sea bass dish tasted extremely fishy; sea bass should be \"clean\" and non-fishy\n- Duck was very fatty - extremely fatty\n- Red Pepper Chicken (\"very spicy\") had zero flavor and was drowned in pasty brown sauce\n- Service became extremely slow/absent after we received our entrees. Took us 30+ minutes to get checks, pay, and leave - entrees arrived at 7:15pm, we left at 8:15pm.\n\nI'm glad the four of us split entrees last night... I would've been really disappointed had I ordered something for myself. It's just... not very good. Guessing this place caters to folks who want to eat adventurously without really doing so. The food is sub-par; this place is resting on some large laurels.\n\nI'd much prefer a flavorful Thai or Indian dish. Won't be back.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Food/dishes very salty, but otherwise bland in flavor","No spice, no interesting flavors/tastes","Sea bass dish tasted extremely fishy; sea bass should be clean and non-fishy","Duck was very fatty - extremely fatty","Red Pepper Chicken very spicy had zero flavor","The food is sub-par"], 
+        "Ambience": "Huge establishment - impressively big", 
+        "VFM": "", 
+        "Service": ["Quick to be seated","Server was friendly","Service became extremely slow/absent"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,-1,-1,-1,-1,-1], 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": [1,1,-1]
+      }
+    }
+  ], 
+  [
+    "TvKHCDE5MdQEfCYqPcD14Q", 
+    5, 
+    "Best Chinese food in the area. Great service and calming atmosphere.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "Best Chinese food in the area", 
+        "Ambience": "calming atmosphere", 
+        "VFM": "", 
+        "Service": "Great service "
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "A3yW2gOKA9BJa4bUH9r30A", 
+    2, 
+    "What a crushing experience.\n My son was in town and when he is here we like to visit and spoil ourselves to a splurge of a dinner outing. This particular night was at the end of summer and there was an amazing thunderstorm about to occur. SO on this stormy night we decided on Chinese and I had recommended we drive to Middleton for what I had heard to be the best around.\nOk..so after a short 15 min drive we had a great parking spot...  ran inside and were greeted with a warming beautiful atmosphere.. very welcoming large foyer, nice bar area which u walk thru to get to your dining area.\nAfter the immediate seating, WE were greeted  by a pleasant asian woman and ordered drinks. which turned out to be just right.\n\nAppetizers were mediocre...nothing to remember...we had the app for two...calamari was HORRIBLE  btw  I could go into so much detail but who is gonna read all that....the following is my reason for writing...\n\nMy forewarning is NOT TO TRUST in ordering the Lobster dish. I wanted a decadent treat for myself and decided on the (market price) 45$ Lobster dinner entree which came with two choices of preparation. Ginger sauce or garlic butter  i ordered the garlic but the server said no the other was best.\nMore importantly i asked her how large the lobster was and if it was sold by pound cause it was listed as Market Price. She said she would inquire before i ordered and returned to our table and said it was 2.5 pds or larger. So that made me excited and i did not hesitate in my ordering. I thought 45 dollars was a great price for a generous 2.5 pd lobster entree.\nWhat arrived on my plate was a cut up overly sauced jigsawed puzzled lobster animation on a platter which was in no way a 2.5 pound creature to begin with. It was dismantled then pieced together to look like a lobster shape. The meat was still in shell. (and I mean IN SHELL).  There was hardly any meat to be had. The tail which should have been the meatiest portion was cut in one inch pieces with shell INTACT and had yielded maybe 2 morsel of meat total.  I was shocked as i struggled to manipulate any source of goodness from the pieces of crustacean.There was literally no lobster and what was there was swimming in overpowering sticky sauce. All in all an EXTREME disappointment. Not what I was expecting in the LEAST!!\n\nAs the storm gained intensity outdoors, my high hopes and any thoughts of returning to this eatery were un-intensified. I will NEVER return. I cannot tolerate being misled by a server\n We ended up tipping and not making a fuss...just another lesson learned. The storm raged on , I did get to spend time with my son and hopefully educate you.. Not a total loss I guess.Just stay away from places like this that lie for profit and have followings that end up being ill fated.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["turned out to be just right", "Appetizers were mediocre", "calamari was HORRIBLE","There was hardly any meat to be had","I was shocked ","All in all an EXTREME disappointment","Not what I was expecting in the LEAST!!"],
+        "Ambience": ["greeted with a warming beautiful atmosphere","very welcoming large foyer","nice bar area which u walk thru to get to your dining area"],
+        "VFM": "", 
+        "Service": ["immediate seating","WE were greeted by a pleasant asian woman"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,-1,-1,-1,-1,-1,-1], 
+        "Ambience": [1,1,1], 
+        "VFM": 0, 
+        "Service": [1,1]
+      }
+    }
+  ], 
+  [
+    "cke8mgbsBkRsSjTEQU4FPg", 
+    5, 
+    "Always consistently delicious! Classic preparations of Americanized Chinese. The cashew chicken is great!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Always consistently delicious!","Classic preparations of Americanized Chinese","The cashew chicken is great!"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "0nuJExgk48zYRoqAWQnLUg", 
+    4, 
+    "I was in town visiting family and someone suggested IG. When I drove up to it, it brought back yummy memories. It's been years since I ate there. I am glad we went there for dinner. We ate governors chicken, governors beef, sweet and sour chicken, peppered beef and beef chow fun. Everyone ate their plates! Service was slow that night but the food made up for it!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Everyone ate their plates!","the food made up for it!"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "Service was slow that night"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": -1
+      }
+    }
+  ], 
+  [
+    "fGux-9aYtQU1t2lQ9rgPwg", 
+    4, 
+    "There's a climactic scene in the movie Drive where the hero meets the badguy in a 'Chinese' restaurant. It's a prop for the movie to sell the idea of foreign while these two real bad American dudes hash out their differences. It's rich and exotic and mysterious and... goddamn exciting. \n\nIG is a Chinese American restaurant in the burbs of burbs that serves burbanites, but man it had that feeling.\n\nThe Russian friend and I went there on a Sunday night for their Peking Duck special. We got that and some appetizer platter and some wonton soup and some cocktails. None of it was particularly memorable, and in fact the Peking Duck skin was *not* crispy, but the presentation was spot on. There's been so much streamlining of Asian restaurants that nice chairs and big booths with lots of room is uncommon. And on top of it I am a sucker for ethnic restaurants that have good servers that can connect with customers. Do you know how rare that is? Take advantage and talk it out. Be polite and get good service.\n\nI don't think Madison's foodies would give this place four stars. But I saw a bunch of other slant eyes here with me, and I imagined they were like me, wide eyed and happy to be here eating whatever this was.\n\nI'd take my mom here.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["None of it was particularly memorable","the Peking Duck skin was not crispy"], 
+        "Ambience": ["It's rich and exotic and mysterious and... goddamn exciting.", "nice chairs and big booths"],
+        "VFM": "", 
+        "Service": ["the presentation was spot on","good servers that can connect with customers"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,-1], 
+        "Ambience": [1,1], 
+        "VFM": 0, 
+        "Service": [1,1]
+      }
+    }
+  ], 
+  [
+    "xTUg5ZFk6-hqZExh-DGGvg", 
+    5, 
+    "Hands down the best Chinese food in Madison. The chicken chow mein has been a favorite since I was a child. Try the egg rolls and the jasmine or chrysanthemum tea. You really can never go wrong here! The decor is beautiful, and makes you almost feel like you could be in a restaurant in China.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Hands down the best Chinese food","The chicken chow mein has been a favorite"], 
+        "Ambience": "The decor is beautiful", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1], 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "dOr5E63wDvGKSpEesNSycw", 
+    2, 
+    "Imperial Garden has been getting progressively worse over the last few years. The waitstaff has always been attentive and professional, and the wait time for food is reasonably short. The restaurant itself and the bathrooms are clean and spacious. The ambiance is relaxed and pleasant, and noise levels are comfortably low.\n\nBut none of these things can save the mediocre-to-bad food. That is, if you get your food at all. On more than one occasion, they have forgotten to include entire entrees or side dishes when I've picked up take-out. I now double-check all of my orders before leaving. The egg rolls taste like they came out of a box in the freezer. They are greasy and heavy, with very little flavor until you douse them in sweet-and-sour sauce that's so sweet it might as well be syrup. The same problems plague the entirely unremarkable crab rangoon. I've had the hot and sour soup, and disliked the taste quite a bit. Not spicy enough, and far too sour. I usually order the ginger beef stir-fry. There's hardly any ginger flavor, and the sauce is thick and also fairly sweet. If they halved the amount of sugar in everything, it would be a good start. I've had more success with the sizzling black pepper beef, which has a punch of black pepper and a good balance of meat and vegetables. On a recent trip, a friend got the beef lo mein. It had a nice quantity of beef, but an anemic quantity of vegetables. It was also very greasy and watery, and tasted extremely bland. The only reason I go here as often as I do is that my grandmother (the poster child for stereotypical Wisconsin taste buds, bless her heart) loves the three delicacies sizzling rice.\n\nI did discover one saving grace: if you dump sriracha on the food, it blends very well with the food and elevates all of the flavors. Too bad they don't have any of it at the restaurant, it could save many a dish. Bottom line: there's much better, more authentic, more balanced, and less heavy Chinese food available in Madison at comparable prices. If you're looking for good Chinese in town, check out Hong Kong Cafe on Regent or Orient House on South Park instead.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["mediocre-to-bad food","taste like they came out of a box in the freezer","They are greasy and heavy","very little flavor","sweet-and-sour sauce that's so sweet it might as well be syrup","disliked the taste quite a bit","Not spicy enough","far too sour","a good balance of meat and vegetables","It was also very greasy and watery","tasted extremely bland."], 
+        "Ambience": ["The restaurant itself and the bathrooms are clean and spacious","The ambiance is relaxed and pleasant","noise levels are comfortably low"], 
+        "VFM": ["It had a nice quantity of beef","anemic quantity of vegetables"], 
+        "Service": ["The waitstaff has always been attentive and professional","the wait time for food is reasonably short.","forgotten to include entire entrees or side dishes "]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,-1,-1,-1,-1,-1,-1,-1,1,-1,-1], 
+        "Ambience": [1,1,1], 
+        "VFM": [1,-1], 
+        "Service": [1,1,-1]
+      }
+    }
+  ], 
+  [
+    "Z0Nv8FGJJ5o5-cCNRbf2Dg", 
+    2, 
+    "The short of the story is - we went here yesterday (Mother's Day) and were there 3 hours! Waited a full 2 hours for our food. So if you have don't mind waiting an unbelievable amount of time for food and have all day to waste, then read on. . .\n\nFor years I have drove by the Imperial Garden and referred to it as the \"Chinese Restaurant Gas Station\". I don't even know if they are connected or what, but you see them both as you turn the corner. We decided to go to this place for Mother's Day and check it out. Talking to friends over the weekend, we were told it was pretty good.\n\nThe building is nice and the atmosphere of the restaurant was way nicer than I expected. Very large and nicely decorated. Not so cheesy like a lot of Chinese-American places in Wisconsin. The hostess greeted us very nicely and having reservations we were seated right away. \n\nNow - we were a larger than average group - table of 8 - but they clearly were set up for groups this big as they had large tables in the corner of the rooms with a spinning lazy susan in the middle that was perfect for us. I think we probably could have even gotten 9 or 10 people on this table. The waitress was very nice too. Came right away and got us drinks and very friendly.\n\nThis is when things went down hill. We did order appetizers, which came out right away. Pot Stickers - both steamed and fried - which were pretty good. Once our whole group arrived we all ordered regular items from their menu. Then we waited. Waited and waited and waited. Apparently so did everyone around us. For hours - over two to be exact. The waitress did her best - kept coming by and telling us she was sorry, that the Kitchen was crazy and that we were next. Honestly we should have left - but it was hard enough getting family members from 4 households together at one time. \n\nEventually the food came out. To their credit, I thought everything tasted pretty good. I got two different shrimp dishes. Decent flavor, cooked perfectly - the snap peas and water chestnuts were good. Portion was decent on the Shrimp dinner and much larger on the chicken dinners that others in my group got. I agree with other reviews - its not the most adventurous food. Flavors were safe and my spicy shrimp wasn't very spicy at all. My sister-in-law was upset her Sesame Chicken with Broccoli came with one piece of broccoli. She complained and the waitress brought out a side of broccoli.\n\nOverall, If the food wasn't pretty good - I would have given this place one star. I give our waitress credit for holding it together too. She offered free desert but we were about an hour late for getting to another place so had to go. Saddest thing is we heard that this has been an ongoing problem with the Kitchen. Sounds like they don't fire dishes in the order they come in and they have a lot of trouble keeping up with things. If they could correct this problem and add a bit more flavor into a few dishes, the place really could be ok.\n\nTry it on your own risk - but I would plan on spending several long hours while you wait for your food.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Pot Stickers - both steamed and fried - which were pretty good","everything tasted pretty good","Decent flavor, cooked perfectly","spicy shrimp wasn't very spicy at all"], 
+        "Ambience": ["The building is nice","the atmosphere of the restaurant was way nicer ","Very large and nicely decorated"], 
+        "VFM": "", 
+        "Service": ["waiting an unbelievable amount of time","The hostess greeted us very nicely","we were seated right away","The waitress was very nice too","Came right away","very friendly.","offered free desert","they have a lot of trouble keeping up with things"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1,-1], 
+        "Ambience": [1,1,1], 
+        "VFM": 0, 
+        "Service": [-1,1,1,1,1,1,1,-1]
+      }
+    }
+  ], 
+  [
+    "lRZUg6Wkqt5pamCVZjAwjg", 
+    1, 
+    "Absolutely THE worst!  This place won \"Best of Madison\" for Chinese food for how many years??? The judge must have been completely stoned out of his mind! \nCustomer service:  Very poor.  The server never checked back until I went looking for her, wondering where our order was 50 minutes after ordering. \nFood finally arrived for our group of four--STONE COLD!  Plates themselves were hot but practically frostbite on the food.  Couldn't eat it. \nManager came by, apologized and took 50% off the bill (!!!). Should have been 100% comped. \nI'm one of those folks who normally overlooks a lot and actually hates to complain, but this culinary travesty really needed to be reported.  If this place previously had great food and service, then as of 2014 they've completely lost their \"mojo\".", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Absolutely THE worst","STONE COLD","practically frostbite on the food","this culinary travesty really needed to be reported"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ["Customer service:  Very poor","The server never checked back"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,-1,-1,-1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": [-1,-1]
+      }
+    }
+  ], 
+  [
+    "y5INUyGwV3PK84kKVFvpkA", 
+    4, 
+    "This is our go-to Chinese restaurant in the Madison area.  Hands down, it's the best Chinese I've found so far.  I'd give it 5 stars if the prices were more reasonable and the dine-in environment was better.\n\nLike I said, the food is superb.  My usual dish is Cashew Chicken.  It's hard to deviate from that when it's sooooo good.  Other dishes are excellent as well.  What I like about Imperial is that the meat quality is good.  The beef is tasty and tender - not tough or \"questionable\".  The chicken is good as well - not some of the gray chicken-like material found at lesser establishments.  \n\nWe don't dine in often or at all.  It's a little more formal than I prefer, and the experience can take a while.  Just not my preference.  I keep their number in my phone and call ahead for carry-out.  That's the way to go here, imho.\n\nTheir location is very convenient for those of us that work in town and live in the western 'burbs.  The portions they give out are very fair - my cashew chicken typically leaves me with a nice lunch for work the next day. \n\nIf you're looking for top-quality Chinese food, I highly recommend getting take-out here.  If you don't mind a more formal setting and have the time, go ahead and dine in.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["it's the best Chinese I've found so far", "the food is superb","it's sooooo good","Other dishes are excellent","the meat quality is good","The beef is tasty and tender","The chicken is good as well","top-quality Chinese food"],
+        "Ambience": ["a little more formal","Their location is very convenient"], 
+        "VFM": ["unreasonable","The portions they give out are very fair"], 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1,1,1,1,1,1], 
+        "Ambience": [-1,1], 
+        "VFM": [-1,1], 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "_wUFwGWeMyj1q1tNkkfLBw", 
+    2, 
+    "Great Margaritas.\n\nBut it's hard to review a mexican restaurant that's as good as the next.\n\nI still wish there was a TRULY good mexican restaurant in Madison...\n\nStill waiting.\n\nAnd don't come tell me ... um... the one on Park.. what's that name???\n\n....\n\nLa Hacienda.\n\nI'd rather poke my eye out or eat at La Bambas....", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "Great Margaritas", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "p1E-TKofflpKoQZVRYGQsQ", 
+    3, 
+    "Ok Mexican like everywhere else. I completely agree with the previous reviewer, \"when is the authentic one coming to this town?\" The menu cover page says it's authentic, but the men items themselves looked little more tex-mex ish. I had a fajita plate while my friend had a chicken dish (I forgot what it was called). My fajita arrived on a sizzling hot plate (that's takes care of the \"fun part\" regardless of the quality), and it was pretty good. The portion was huge, so I had to take ha;f of my plate to go, and the take out became the perfect left-over dinner next day.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["but the menu items themselves looked little more tex-mex ish","it was pretty good"], 
+        "Ambience": "", 
+        "VFM": "The portion was huge", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,1], 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "0Id-TIObT-nkTFn8qxtFVg", 
+    4, 
+    "Mi Cocina is my favorite Mexican-style restaurant in the Madison area.  I have never come away unimpressed with either the food or the service.  I can't really speak to authenticity since I wouldn't really know it if I saw it, but for what they do Mi Cocina does it well.  All I do know is that I have gotten my favorites here over and over without ever having any problems.  The staff is always friendly and fast which sets the place apart from several other area restaurants of the genre.  If only for consistency I would rate Mi Cocina a three, and with never having a bad meal I definitely would go with a high 3.5 - 4 stars.\n\nLast time I had the fried tilapia tacos, and I especially enjoyed the spicy cream-based sauce that was served on the side.  It was perfectly seasoned for my taste, though it was a bit hot for my mother.  The tilapia was lightly fried and was still tender.  The accompanying refried beans were decent, and served to allow for the spice from the tacos to dissipate.  I still put the blackened tilapia tacos at Tex Tubbs at the top of my favorites list, but these easily jumped to the #2 position.  On previous trips I've gotten flautas, which were perfectly fried and not too crispy, and the enchiladas sonora, which comes with an excellent spinach and a creamy sauce.  I also really enjoy the cheese and mushroom quesidilla and the fajitas.  My sister, who is lactose-intolerant, had found the menu a bit dairy-laden, but she did end up finding a chicken breast entree that is now her favorite.  The prices are quite reasonable and given the amount of food always a good deal.  Mi Cocina probably won't ever be held up as a paragon of the style, but it has always been reliable and enjoyable and for that I'll keep coming back.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["my favorite Mexican-style restaurant ","never come away unimpressed with either the food or the service","I especially enjoyed the spicy cream-based sauce","It was perfectly seasoned for my taste","a bit hot","tilapia was lightly fried and was still tender","perfectly fried and not too crispy","excellent spinach and a creamy sauce"], 
+        "Ambience": "", 
+        "VFM": ["The prices are quite reasonable","always a good deal"], 
+        "Service": ["never come away unimpressed with either the food or the service","The staff is always friendly and fast"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1,1,-1,-1,1,1], 
+        "Ambience": 0, 
+        "VFM": [1,1], 
+        "Service": [1,1]
+      }
+    }
+  ], 
+  [
+    "XiZqiVEOQMQRmjSriBumVQ", 
+    3, 
+    "The food is decent, the service is better than your average Madison restaurant and the bathrooms were clean.  It is a bit out of our way but it is consistent enough to warrant more visits.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "The food is decent", 
+        "Ambience": ["the bathrooms were clean","It is a bit out of our way"], 
+        "VFM": "", 
+        "Service": "the service is better than your average Madison restaurant"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": [1,-1], 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "jLI0BmiPnPfovnFPsqmGFA", 
+    3, 
+    "Good food - especially if you're in a hurry. \n\nThe service is excellent.  \n\nIf you're in Brookfield try the Mi Cocina on Bluemound - I believe owned by the same people but the food is bette.r", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "Good food", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "The service is excellent"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "P8XxDN4-AZJmgqYpv864Nw", 
+    3, 
+    "After a wonderful day spent sitting down at the Memorial Union, drinking beer and reading through the Sunday newspaper, hunger got the better part of us, and Mexican food sounded yummy.  So, our small group made our way back toward the Middleton and decided to take a short walk over to Mi Cocina.\n\nWe arrived at around 6:00pm on a Sunday and were promptly seated.  The waiter brought us chips and salsa immediately, and then took our drink orders.  Within a few minutes, our sodas arrived, along with a cheese dip.\n\nWe quickly scarfed down the salsa and cheese dip; the salsa was initially mild but then had a nice little kick to it at the end.  The chips were a thicker cut chip; they weren't the slightest bit greasy.  The queso was excellent - nice and hearty, white cheese, delicious.\n\nWe ordered our entrees and within minutes our food was available.  There was a slight mix-up with my order - I had requested chicken burritos but received beef.  No big deal; the beef burritos were decent - some chunks of potato were an interesting touch.\n\nMy dining partner ordered a sampler plate, which came with a chicken burrito, a chicken enchilada, and a tamale.  It was good as well; the chicken was far better than the ground beef.\n\nService was beyond excellent - very fast, very attentive, and as such, we left a nice tip.  Only complaints?  A tad pricey - our meal was $26 without any beers/margaritas, and there were a ton of kids in there, which was a bit distracting.  All in all a decent experience.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["weren't the slightest bit greasy","The queso was excellent - nice and hearty, white cheese, delicious","the beef burritos were decent","the chicken was far better"], 
+        "Ambience": "a bit distracting", 
+        "VFM": "A tad pricey", 
+        "Service": ["promptly seated","Service was beyond excellent - very fast, very attentive"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1], 
+        "Ambience": -1, 
+        "VFM": -1, 
+        "Service": [1,1]
+      }
+    }
+  ], 
+  [
+    "B6JNvh3UrbFnJxBXCGCqlw", 
+    3, 
+    "It started out as an excellent place to go then they changed the menu, then they changed the menu again! The food changed names and the pricing increased but essentially it remained the same. They are now at the point where they are charging a little much for the food they are serving. I still go here because of convenience and lightning fast service. I noticed a new manager walking over the servers shoulders seemed to make the staff feeling like they were on pins and needles.\nKids eat free on Sundays so keep that in mind!", 
+    {
+      "category": {
+        "Food": 0, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "", 
+        "Ambience": "", 
+        "VFM": ["the pricing increased","they are charging a little much"], 
+        "Service": "convenience and lightning fast service"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 0, 
+        "Ambience": 0, 
+        "VFM": [-1,-1], 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "V_r7BJcyRWa2ZaEKS8ZKcQ", 
+    4, 
+    "Kids eat free on Sunday!", 
+    {
+      "category": {
+        "Food": 0, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": "eat free"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": 0, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "DavxDAi3EABo4SKWYwXXsg", 
+    1, 
+    "Ate here once with a buy one, get one coupon. I won't be heading back. Go to Los Gemelos off of State St instead.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": "I won't be heading back", 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": -1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "zsA4brB_64g6_ShSciIS4A", 
+    3, 
+    "I love their taco loco. It's a mouthwatering fajita/taco salad concoction that I\n a. can't get enough of and\n b. can't finish.\n\nI have tried a few other dishes and nothing ranks near the crazy taco.  Warm, thick chips and a mild salsa are served bountifully. The chips aren't greasy and are not heavily salted which makes me happy. I like to add my own anyway.\n\nThey have three versions of guacamole. Yesterday we tried the most basic which was delicious and simple. We also tried an appetizer with cheese and chorizo. It was good, but quickly coagulated which resulted in an undip-able dip.\n\nMARGARITA ALERT- their house margarita... not a traditional margarita. In my opinion, it tasted like watered down orange soda. And the color is a light peach color. If you want a classic, lime margarita I have yet to find one I love here.  I'm not your typical margarita drinker.  The aftermath of too much sweet margarita mix and I do not get along.  I admit,  I'm kind of picky about margaritas, but these, these should have a warning when ordering.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["I love their taco loco","It's a mouthwatering fajita/taco salad","crazy taco","Warm, thick chips and a mild salsa","The chips aren't greasy and are not heavily salted","delicious and simple","quickly coagulated which resulted in an undip-able dip","tasted like watered down orange soda"], 
+        "Ambience": "", 
+        "VFM": "served bountifully", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,1,1,1,1,-1,-1], 
+        "Ambience": 0, 
+        "VFM": 1, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "MWJS4mfw0Rji_pyAaj31Cg", 
+    4, 
+    "Good authentic Mexican, a lot of menu options, great service, nice quite atmosphere.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["Good authentic Mexican","a lot of menu options"], 
+        "Ambience": "nice quiet atmosphere", 
+        "VFM": "", 
+        "Service": "great service"
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1], 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }
+  ], 
+  [
+    "zaGZsJTnQMSXepntO6Vsxg", 
+    4, 
+    "I really enjoyed my dinner here. I had a fantastic fajita platter, which included beef, chicken, shrimp, and the requisite peppers and onions, but also whole scallions and tomato wedges. Delicious! The guacamole was decent, though a little bland. And my husband's mole sauce was just OK. But I really liked the spicy salsa they brought to the table when I requested it.\n\nThe service was pretty great; there was a whole team of servers that were constantly checking up on us to make sure we were doing OK. Every time we had a special request (see: the spicy salsa), they were right on top of it.\n\nBut what I REALLY liked was the margaritas; our table had a pitcher of blended strawberry margaritas, and they were absolutely perfect. Blended just right with no big chunks of ice; perfectly balanced strawberry and tequila flavor. I could have consumed that whole pitcher by myself without even putting in too much effort. Yum!", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 1
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["I had a fantastic fajita platter","Delicious! The guacamole was decent","though a little bland","mole sauce was just OK","absolutely perfect","Blended just right with no big chunks of ice","perfectly balanced strawberry and tequila flavor","Yum!"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ["The service was pretty great","there was a whole team of servers","constantly checking up on us to make sure we were doing OK"]
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,1,-1,-1,1,1,1,1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": [1,1,1]
+      }
+    }
+  ], 
+  [
+    "TmcZk5dRfgIyiurzqCBgLg", 
+    2, 
+    "So, I've enjoyed Mi Cocina before.... but I think my tastes have matured.  The salsa was good, but the sauce inside of my taco and chimichanga was a strange ketchup/bbq tasting mixture.  Beans were ok, rice, not so much.  I probably won't be back.  Sorry Mi Cocina.", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["The salsa was good","a strange ketchup/bbq tasting mixture","Beans were ok","rice, not so much"], 
+        "Ambience": "", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [1,-1,1,-1], 
+        "Ambience": 0, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ], 
+  [
+    "h2Lf89D3H3Ix-dLNfOpDgg", 
+    2, 
+    "I joined a few coworkers for lunch here today... I've not been a huge fan of Mi Cocina, so I hoped the new location and fresh look would've improved the experience.\n\nIt's still just barely passable as Mexican food.  Most entrees appear to be drowning in sauces, cheese, and other gooey/greasy stuff.  The salsas are extremely watery and lacking in flavor.  The guacamole (not the tableside-made) is bland and pasty.\n\nI ordered a pollo ensalada (chicken salad), which arrived as a bowl of super watery iceburg lettuce, a slab of seared chicken breast, 4 small slices of cucumber, a spoonful of pico de gallo, and a huge glob of guacamole (which I scraped off and set aside).\n\nThe salad was ok, but as I neared the end, I literally had what looked like a small soup bowl's worth of water resting in the bottom.  \n\nMy coworker's entrees were drenched in various cheese sauces/red sauces; the taco combo was blanketed in cheese.  They loved it, but my guts would've been complaining for days... \n\nSo, enjoy the new location and ambiance - just don't expect better food.  Those who've had real Mexican food will not enjoy this place...\n\nCocina Real/Mi Cocina = FAIL\n\nFood = 2 stars\nService = 3 stars\nValue = 2 stars\nMISC = 3 stars", 
+    {
+      "category": {
+        "Food": 1, 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }, 
+    {
+      "phrase": {
+        "Food": ["still just barely passable as Mexican food","Most entrees appear to be drowning in sauces, cheese, and other gooey/greasy stuff","The guacamole is bland and pasty","The salad was ok","drenched in various cheese sauces/red sauces","the taco combo was blanketed in cheese"], 
+        "Ambience": "enjoy the new location and ambience", 
+        "VFM": "", 
+        "Service": ""
+      }
+    }, 
+    {
+      "polarity": {
+        "Food": [-1,-1,-1,-1,-1,-1], 
+        "Ambience": 1, 
+        "VFM": 0, 
+        "Service": 0
+      }
+    }
+  ]
+
+  ]
